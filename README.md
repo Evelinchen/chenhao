@@ -5,7 +5,7 @@ study
   1.1 [模型融合有哪些方法](https://baidu.com)<br/>
   1.2 特征选择有哪些方法<br/>
   1.3 机器学习项目的一般步骤<br/>
-  1.4 推导LR算法<br/>
+  1.4 [推导LR算法](https://github.com/Evelinchen/chenhao/blob/master/Logistic.pdf)<br/>
   1.5 多参数调参<br/>
   1.6 XGBoost算法的主要参数及其作用<br/>
   1.7 Bagging和Boosting的区别<br/>
