@@ -16,5 +16,17 @@ def binarySearch(alist, item):
             return mid+1
     return -1
 
+def b(alist,item):
+    n = len(alist)
+    if n > 0:
+        mid = n//2
+        if alist[mid] == item:
+            return True
+        elif item < alist[mid]:
+            return b(alist[;mid], item)
+        else:
+            return b(alist[mid+1, item])
+        return False
+
 test = [0, 1, 2, 8, 13, 17, 19, 32, 42]
 print(binarySearch(test, 3))
